@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#6200EE</color>
+    <string name="app_name">News App</string>
+    <string name="error_loading_news">Erreur lors du chargement des actualités</string>
+    <string name="loading">Chargement…</string>
+    <string name="news_detail_title">Détail de l\'article</string>
+    <string name="news_list_title">Actualités</string>
+    <string name="no_description_available">Description non disponible</string>
+    <string name="no_image_available">Image non disponible</string>
+    <string name="no_news_available">Aucune actualité disponible</string>
+    <string name="read_full_article">Lire l\'article complet</string>
+    <string name="retry">Réessayer</string>
+    <style name="Theme.NewsAppCompose" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
